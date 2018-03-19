@@ -4,11 +4,10 @@
 from __future__ import absolute_import
 from celery import Celery
 
-app = Celery('bi', include=['bi.tasks'])
+app = Celery('schedule_bi', include=['schedule_bi.tasks'])
 
-app.config_from_object('bi.config')
+app.config_from_object('schedule_bi.schedule_config')
 
 if __name__ == '__main__':
     app.start()
-
-# celery -A bi worker -l info
+# celery -A schedule_bi worker -B -l info
