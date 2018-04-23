@@ -3,6 +3,7 @@ from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import json
 import re
 import socket
+import cgi
 from threading import Thread
 
 # Third-party imports...
@@ -26,6 +27,19 @@ class MockServerRequestHandler(BaseHTTPRequestHandler):
             self.wfile.write(response_content.encode('utf-8'))
             return
 
+    def do_POST(self):
+        if None != re.search('/api', self.path):
+            ctype, pdict = cgi.parse_header(self.headers.getheader('content-type'))
+            if ctype == 'application/json':
+                data = {"w":"we"}
+                length = int(self.headers.getheader('content-length'))
+                post_data = cgi.parse_qs(self.rfile.read(length), keep_blank_values=1)
+            else:
+                data = {}
+            self.send_response(200)
+            self.end_headers()
+            self.wfile.write(json.dumps(data).encode('utf-8'))
+        return
 
 def get_free_port():
     s = socket.socket(socket.AF_INET, type=socket.SOCK_STREAM)
