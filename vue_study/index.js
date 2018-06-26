@@ -66,3 +66,37 @@ var app7 = new Vue({
       ]
     }
 })
+
+// 定义一个名为 button-counter 的新组件
+Vue.component('button-counter', {
+  data: {function () {
+    return {
+      count: 0
+    }
+  }},
+  template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
+})
+new Vue({ el: '#components-demo' })
+
+Vue.component('blog-post', {
+  props: ['post'],
+  template: `
+    <div class="blog-post">
+      <h3>{{ post.title }}</h3>
+      <button v-on:click="$emit('enlarge-text')">
+        Enlarge text
+      </button>
+      <div v-html="post.content"></div>
+    </div>
+  `
+})
+
+new Vue({
+  el: '#blog-posts-events-demo',
+  data: {
+    posts: [
+      {id: 1, title:'afds', }
+    ],
+    postFontSize: 1
+  }
+})
