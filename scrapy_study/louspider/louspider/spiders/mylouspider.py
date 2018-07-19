@@ -33,4 +33,5 @@ class LouSpider(scrapy.Spider):
         next_page = hxs.xpath('//div//li/a[@aria-label="Next"]/@href').extract_first()
         self.log(next_page)
         if next_page != "#":
-            yield scrapy.Request('https://www.shiyanlou.com'+next_page, self.parse)
+            next_page = response.urljoin(next_page)
+            yield scrapy.Request(next_page, self.parse)
