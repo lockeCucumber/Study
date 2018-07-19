@@ -19,3 +19,7 @@ class LouSpider(scrapy.Spider):
             item['learned'] = course.xpath('.//span[@class="course-per-num pull-left"]/text()').extract()[1].strip()
             item['image'] = course.xpath('.//div[@class="course-img"]/img/@src').extract()[0].strip()
             yield item
+
+        next_page = hxs.xpath('//div//li/a[@aria-label="Next"]/@href').extract_first()
+        if next_page != "#":
+            yield scrapy.Request('https://www.shiyanlou.com'+next_page, self.parse)

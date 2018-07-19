@@ -18,3 +18,164 @@ course_name: Python 图片转字符画, learned_count: 57414, image: https://dn-
 course_name: Scala 开发二十四点游戏, learned_count: 1360, image: https://dn-simplecloud.shiyanlou.com/1453875007050.png
 course_name: RabbitMQ 消息队列, learned_count: 1117, image: https://dn-simplecloud.shiyanlou.com/1472205212815.png
 course_name: 竞态条件漏洞实验, learned_count: 903, image: https://dn-simplecloud.shiyanlou.com/1525930945137.png
+course_name: Linux 基础入门（新版）, learned_count: 182285, image: https://dn-simplecloud.shiyanlou.com/ncn1.jpg
+course_name: 新手指南之玩转实验楼, learned_count: 273364, image: https://dn-simplecloud.shiyanlou.com/ncn63.jpg
+course_name: 使用机器学习方法预测世界杯冠军, learned_count: 15, image: https://dn-simplecloud.shiyanlou.com/course/1531278732689_机器学习预测世界杯-封面(1).png
+course_name: Python 实现 Redis 异步客户端, learned_count: 687, image: https://dn-simplecloud.shiyanlou.com/1458285524322.png
+course_name: NumPy 百题大冲关, learned_count: 3612, image: https://dn-simplecloud.shiyanlou.com/1523958494389.png
+course_name: 用 C 编写打字练习软件, learned_count: 829, image: https://dn-simplecloud.shiyanlou.com/course/1526624721268_【1105】-【用C编写打字练习软件】.png
+course_name: C 语言入门教程, learned_count: 38049, image: https://dn-simplecloud.shiyanlou.com/1523348726316.png
+course_name: Python3 简明教程, learned_count: 28999, image: https://dn-simplecloud.shiyanlou.com/1470809533277.png
+course_name: Java编程语言（新版）, learned_count: 36594, image: https://dn-simplecloud.shiyanlou.com/ncn18.jpg
+course_name: 全面解析PythonChallenge, learned_count: 8510, image: https://dn-simplecloud.shiyanlou.com/1517277301782.png
+course_name: Scala 开发教程, learned_count: 5293, image: https://dn-simplecloud.shiyanlou.com/1453875026696.png
+course_name: Pandas 百题大冲关, learned_count: 1561, image: https://dn-simplecloud.shiyanlou.com/1523958570202.png
+course_name: Python 基于共现提取《釜山行》人物关系, learned_count: 11281, image: https://dn-simplecloud.shiyanlou.com/1517278026775.png
+course_name: PHP 编程入门, learned_count: 13803, image: https://dn-simplecloud.shiyanlou.com/course/1524713748754_【23】-【PHP编程入门】.png
+course_name: 16 个 PHP 设计模式详解, learned_count: 4983, image: https://dn-simplecloud.shiyanlou.com/1517278443183.png
+course_name: MySQL 基础课程, learned_count: 43546, image: https://dn-simplecloud.shiyanlou.com/ncn9.jpg
+course_name: Python 图片转字符画, learned_count: 57418, image: https://dn-simplecloud.shiyanlou.com/ncn370.jpg
+course_name: Scala 开发二十四点游戏, learned_count: 1360, image: https://dn-simplecloud.shiyanlou.com/1453875007050.png
+course_name: RabbitMQ 消息队列, learned_count: 1118, image: https://dn-simplecloud.shiyanlou.com/1472205212815.png
+course_name: 竞态条件漏洞实验, learned_count: 903, image: https://dn-simplecloud.shiyanlou.com/1525930945137.png
+course_name: Python 生成个性二维码, learned_count: 1537, image: https://dn-simplecloud.shiyanlou.com/1530236619450.png
+course_name: Elgg 系统 CSRF 攻击实验, learned_count: 1199, image: https://dn-simplecloud.shiyanlou.com/1525931074639.png
+course_name: Linux Capability探索实验, learned_count: 111, image: https://dn-simplecloud.shiyanlou.com/1525940760038.png
+course_name: Go语言编程, learned_count: 9582, image: https://dn-simplecloud.shiyanlou.com/ncn11.jpg
+course_name: C++11/14 高速上手教程, learned_count: 6872, image: https://dn-simplecloud.shiyanlou.com/1471329788157.png
+course_name: R 语言基础入门, learned_count: 2271, image: https://dn-simplecloud.shiyanlou.com/1499827625083.png
+course_name: RNN神经网络讲解及基础应用, learned_count: 1596, image: https://dn-simplecloud.shiyanlou.com/1517216750445.png
+course_name: Python实现3D建模工具, learned_count: 5994, image: https://dn-simplecloud.shiyanlou.com/1466427762643.png
+course_name: 神经网络实现手写字符识别系统, learned_count: 7759, image: https://dn-simplecloud.shiyanlou.com/1470034895999.png
+course_name: Python3 实现色情图片识别, learned_count: 19574, image: https://dn-simplecloud.shiyanlou.com/1470014382565.png
+course_name: ThinkPHP框架实践, learned_count: 5876, image: https://dn-simplecloud.shiyanlou.com/ncn96.jpg
+course_name: Python3 实现简单的 Web 服务器, learned_count: 13652, image: https://dn-simplecloud.shiyanlou.com/course/1528276208557_【552】-【Python3实现简单的Web服务器】.png
+course_name: 深入浅出 Swift 3, learned_count: 2330, image: https://dn-simplecloud.shiyanlou.com/1471334607691.png
+course_name: MongoDB 基础教程, learned_count: 10978, image: https://dn-simplecloud.shiyanlou.com/ncn12.jpg
+course_name: 在Github Pages上部署自己的简历, learned_count: 6288, image: https://dn-simplecloud.shiyanlou.com/1471855919856.png
+course_name: Shell 脚本实现 Linux 系统监控, learned_count: 4908, image: https://dn-simplecloud.shiyanlou.com/1470197712993.png
+course_name: 序列的数据挖掘--《数据科学：R语言实战》, learned_count: 362, image: https://dn-simplecloud.shiyanlou.com/1500605924026.png
+course_name: Python实现模板引擎, learned_count: 948, image: https://dn-simplecloud.shiyanlou.com/1469436829895.png
+course_name: 缓冲区溢出漏洞实验, learned_count: 8003, image: https://dn-simplecloud.shiyanlou.com/1525930503005.png
+course_name: ShellShock 攻击实验, learned_count: 7163, image: https://dn-simplecloud.shiyanlou.com/1525930403271.png
+course_name: Vim编辑器, learned_count: 53552, image: https://dn-simplecloud.shiyanlou.com/ncn2.jpg
+course_name: HIVE教程, learned_count: 3396, image: https://dn-simplecloud.shiyanlou.com/1529647125243.png
+course_name: 基于 Python 的文件备份, learned_count: 3390, image: https://dn-simplecloud.shiyanlou.com/ncn302.jpg
+course_name: Collabtive系统跨站脚本攻击实验, learned_count: 1576, image: https://dn-simplecloud.shiyanlou.com/1525937878177.png
+course_name: C语言实现Linux touch命令, learned_count: 856, image: https://dn-simplecloud.shiyanlou.com/1468303457068.png
+course_name: MyBatis 框架基础入门, learned_count: 3339, image: https://dn-simplecloud.shiyanlou.com/1517282865454.png
+course_name: 流式实时日志分析系统——《Spark 最佳实践》, learned_count: 2207, image: https://dn-simplecloud.shiyanlou.com/1493349184140.png
+course_name: Hadoop 图处理--《hadoop应用框架》, learned_count: 1393, image: https://dn-simplecloud.shiyanlou.com/1517282724219.png
+course_name: 使用 Flume 收集数据, learned_count: 1386, image: https://dn-simplecloud.shiyanlou.com/1517282844826.png
+course_name: 云原生监控系统 Prometheus, learned_count: 162, image: https://dn-simplecloud.shiyanlou.com/1525145795019.png
+course_name: Python 实现数据科学中的无监督挖掘技术, learned_count: 956, image: https://dn-simplecloud.shiyanlou.com/1523944126386.png
+course_name: Python3使用 XML-RPC共享文件, learned_count: 316, image: https://dn-simplecloud.shiyanlou.com/1523944303750.png
+course_name: Python 的循环语句和隐含波动率的计算, learned_count: 541, image: https://dn-simplecloud.shiyanlou.com/1523241034833.png
+course_name: Wireshark网络分析实战, learned_count: 1032, image: https://dn-simplecloud.shiyanlou.com/ncn288.jpg
+course_name: 《Python 贝叶斯分析》- 利用逻辑回归实现鸢尾花分类, learned_count: 420, image: https://dn-simplecloud.shiyanlou.com/1521772927614.png
+course_name: 《汇编语言（第2版）》郑晓薇编著配套实验, learned_count: 6368, image: https://dn-simplecloud.shiyanlou.com/ncn83.jpg
+course_name: Python3 实现推理游戏Bagels, learned_count: 2000, image: https://dn-simplecloud.shiyanlou.com/1520819684116.png
+course_name: 使用 Python 创建照片马赛克, learned_count: 2120, image: https://dn-simplecloud.shiyanlou.com/1520416798615.png
+course_name: 使用逻辑回归预测IPO市场, learned_count: 540, image: https://dn-simplecloud.shiyanlou.com/1518400874122.png
+course_name: Python 气象数据分析：《Python 数据分析实战》, learned_count: 8145, image: https://dn-simplecloud.shiyanlou.com/1517282698894.png
+course_name: 利用Tensorflow设计简单的前向神经网络, learned_count: 940, image: https://dn-simplecloud.shiyanlou.com/1518326645916.png
+course_name: SIFT特征提取分析算法讲解及应用, learned_count: 395, image: https://dn-simplecloud.shiyanlou.com/1515408613063.png
+course_name: C++ 实现俄罗斯方块, learned_count: 6151, image: https://dn-simplecloud.shiyanlou.com/1513155659728.png
+course_name: Django打造文件分享系统, learned_count: 3410, image: https://dn-simplecloud.shiyanlou.com/1513155628298.png
+course_name: GD库实现图片水印与缩略图, learned_count: 286, image: https://dn-simplecloud.shiyanlou.com/1513578018928.png
+course_name: Hopfield 算法基础讲解及实例实现, learned_count: 335, image: https://dn-simplecloud.shiyanlou.com/1514513190989.png
+course_name: PHP QRCode生成二维码, learned_count: 549, image: https://dn-simplecloud.shiyanlou.com/1515121378020.png
+course_name: PHP Socket编程, learned_count: 1065, image: https://dn-simplecloud.shiyanlou.com/1517285890130.png
+course_name: PHP 实现验证码制作, learned_count: 690, image: https://dn-simplecloud.shiyanlou.com/1511870931736.png
+course_name: Python 实现文字聊天室, learned_count: 8146, image: https://dn-simplecloud.shiyanlou.com/1517285864683.png
+course_name: 用 Flex 与 Yacc 开发一门编程语言, learned_count: 650, image: https://dn-simplecloud.shiyanlou.com/1528795340371.png
+course_name: 高级 bash 脚本编程指南, learned_count: 6368, image: https://dn-simplecloud.shiyanlou.com/1505093960707.png
+course_name: ROS机器人操作系统中级教程, learned_count: 1101, image: https://dn-simplecloud.shiyanlou.com/1505728908751.png
+course_name: Python 数据可视化 -- 《Python 金融大数据分析》, learned_count: 5352, image: https://dn-simplecloud.shiyanlou.com/1528794248699.png
+course_name: 对英国房屋价格建模并预测 ---《量化金融R语言初级教程》, learned_count: 385, image: https://dn-simplecloud.shiyanlou.com/1500950540227.png
+course_name: SQL 注入基础原理介绍, learned_count: 3949, image: https://dn-simplecloud.shiyanlou.com/1528794344226.png
+course_name: R语言进行商业问卷分析--《菜鸟侦探挑战数据分析》, learned_count: 414, image: https://dn-simplecloud.shiyanlou.com/1499739812208.png
+course_name: Github 快速上手实战教程, learned_count: 7459, image: https://dn-simplecloud.shiyanlou.com/1499681177825.png
+course_name: 基于R的高级数据管理--《R语言实战（第2版）》, learned_count: 460, image: https://dn-simplecloud.shiyanlou.com/1499739741848.png
+course_name: ROS机器人操作系统的安装、配置与初级教程, learned_count: 6297, image: https://dn-simplecloud.shiyanlou.com/1499311729491.png
+course_name: 快速开始一个 Go 程序 -- 《 Go 语言实战 》, learned_count: 2607, image: https://dn-simplecloud.shiyanlou.com/1528794790541.png
+course_name: Hadoop 分布式文件系统——导入和导出数据, learned_count: 1667, image: https://dn-simplecloud.shiyanlou.com/1495870969132.png
+course_name: NBA常规赛结果预测：利用Python进行比赛数据分析, learned_count: 12000, image: https://dn-simplecloud.shiyanlou.com/1489547404262.png
+course_name: K-近邻算法实现手写数字识别系统--《机器学习实战 》, learned_count: 5880, image: https://dn-simplecloud.shiyanlou.com/1517282649100.png
+course_name: Laravel 5.1 基础教程, learned_count: 4090, image: https://dn-simplecloud.shiyanlou.com/1517281591648.png
+course_name: SQLAlchemy 基础教程, learned_count: 6176, image: https://dn-simplecloud.shiyanlou.com/1517280450735.png
+course_name: PyQt 实现简易浏览器, learned_count: 7534, image: https://dn-simplecloud.shiyanlou.com/1517278566042.png
+course_name: 基于 SendCloud 的邮箱验证, learned_count: 667, image: https://dn-simplecloud.shiyanlou.com/1471600705609.png
+course_name: Scala 专题教程 - 隐式变换和隐式参数, learned_count: 438, image: https://dn-simplecloud.shiyanlou.com/1458180296092.png
+course_name: Scala 专题教程 - Case Class和模式匹配, learned_count: 428, image: https://dn-simplecloud.shiyanlou.com/1458180351635.png
+course_name: 经典算法解题实战, learned_count: 14833, image: https://dn-simplecloud.shiyanlou.com/1453520874372.png
+course_name: PHP会话控制, learned_count: 2310, image: https://dn-simplecloud.shiyanlou.com/1445221124503.png
+course_name: JDBC 入门教程, learned_count: 6989, image: https://dn-simplecloud.shiyanlou.com/ncn110.jpg
+course_name: J2SE核心开发实战, learned_count: 10188, image: https://dn-simplecloud.shiyanlou.com/ncn111.jpg
+course_name: Hadoop入门进阶课程, learned_count: 13235, image: https://dn-simplecloud.shiyanlou.com/ncn237.jpg
+course_name: Hibernate框架教程, learned_count: 6111, image: https://dn-simplecloud.shiyanlou.com/ncn34.jpg
+course_name: Elgg 系统跨站脚本攻击实验, learned_count: 1158, image: https://dn-simplecloud.shiyanlou.com/1525931106472.png
+course_name: Redis基础教程, learned_count: 9412, image: https://dn-simplecloud.shiyanlou.com/ncn106.jpg
+course_name: Collabtive系统跨站请求伪造攻击实验, learned_count: 1228, image: https://dn-simplecloud.shiyanlou.com/1525931001615.png
+course_name: SET-UID程序漏洞实验, learned_count: 2149, image: https://dn-simplecloud.shiyanlou.com/1525930185262.png
+course_name: 操作系统原理与实践, learned_count: 13989, image: https://dn-simplecloud.shiyanlou.com/ncn115.jpg
+course_name: Python Flask Web框架, learned_count: 11137, image: https://dn-simplecloud.shiyanlou.com/ncn29.jpg
+course_name: Python3 实现键值数据库, learned_count: 3732, image: https://dn-simplecloud.shiyanlou.com/1471330679327.png
+course_name: 利用TensorFlow进行自然语言处理, learned_count: 1758, image: https://dn-simplecloud.shiyanlou.com/1517541436312.png
+course_name: 用 C语言编写自己的编程语言, learned_count: 4358, image: https://dn-simplecloud.shiyanlou.com/1478509150008.png
+course_name: 数据结构(新版), learned_count: 18412, image: https://dn-simplecloud.shiyanlou.com/ncn20.jpg
+course_name: 使用 Matplotlib 绘制 2D 和 3D 图形, learned_count: 1326, image: https://dn-simplecloud.shiyanlou.com/course/1524186145487_【1093】-【使用Matplotlib绘制2D和3D图形】.png
+course_name: 200 行 Python 代码实现 2048, learned_count: 39188, image: https://dn-simplecloud.shiyanlou.com/ncn368.jpg
+course_name: Python实现Python解释器, learned_count: 2602, image: https://dn-simplecloud.shiyanlou.com/1465729995545.png
+course_name: Java 8 新特性指南, learned_count: 3951, image: https://dn-simplecloud.shiyanlou.com/1464935453148.png
+course_name: Scala 专题教程 - Extractor, learned_count: 330, image: https://dn-simplecloud.shiyanlou.com/1459493144226.png
+course_name: Scala 专题教程 - 抽象成员, learned_count: 246, image: https://dn-simplecloud.shiyanlou.com/1458180211728.png
+course_name: Python 破解验证码, learned_count: 17053, image: https://dn-simplecloud.shiyanlou.com/ncn364.jpg
+course_name: JDK 核心 API, learned_count: 9061, image: https://dn-simplecloud.shiyanlou.com/ncn109.jpg
+course_name: Collabtive系统SQL注入实验, learned_count: 2388, image: https://dn-simplecloud.shiyanlou.com/1525931052696.png
+course_name: Collabtive系统浏览器同源策略探索实验, learned_count: 479, image: https://dn-simplecloud.shiyanlou.com/1525931023210.png
+course_name: 高德API + Python 解决租房问题, learned_count: 17499, image: https://dn-simplecloud.shiyanlou.com/1470378922159.png
+course_name: HBASE 教程, learned_count: 3221, image: https://dn-simplecloud.shiyanlou.com/1529569045568.png
+course_name: Mahout教程, learned_count: 1416, image: https://dn-simplecloud.shiyanlou.com/ncn39.jpg
+course_name: Hadoop部署及管理, learned_count: 8227, image: https://dn-simplecloud.shiyanlou.com/1522313561058.png
+course_name: TCP/IP网络协议基础, learned_count: 25542, image: https://dn-simplecloud.shiyanlou.com/ncn98.jpg
+course_name: 结合七牛搭建个人相册, learned_count: 5336, image: https://dn-simplecloud.shiyanlou.com/ncn54.jpg
+course_name: Spring框架入门教程（新版）, learned_count: 10326, image: https://dn-simplecloud.shiyanlou.com/ncn33.jpg
+course_name: Go by Example 中文版, learned_count: 2323, image: https://dn-simplecloud.shiyanlou.com/1451987916194.png
+course_name: Git 实战教程, learned_count: 39490, image: https://dn-simplecloud.shiyanlou.com/1451525605970.png
+course_name: 轻松创建 Node.js 服务器, learned_count: 1808, image: https://dn-simplecloud.shiyanlou.com/1439991209618.png
+course_name: 120行代码实现简单的即时搜索, learned_count: 3422, image: https://dn-simplecloud.shiyanlou.com/1438766088720.png
+course_name: 基于HTML5 Canvas实现小游戏, learned_count: 7654, image: https://dn-simplecloud.shiyanlou.com/ncn361.jpg
+course_name: 基于 Flask 与 RethinkDB 实现TODO List, learned_count: 1999, image: https://dn-simplecloud.shiyanlou.com/1528794819711.png
+course_name: Node.js 教程, learned_count: 9172, image: https://dn-simplecloud.shiyanlou.com/ncn44.jpg
+course_name: Javascript基础（新版）, learned_count: 17560, image: https://dn-simplecloud.shiyanlou.com/ncn21.jpg
+course_name: Struts框架教程, learned_count: 7070, image: https://dn-simplecloud.shiyanlou.com/ncn32.jpg
+course_name: Linux内核分析, learned_count: 9536, image: https://dn-simplecloud.shiyanlou.com/ncn195.jpg
+course_name: Java进阶之设计模式, learned_count: 13972, image: https://dn-simplecloud.shiyanlou.com/ncn100.jpg
+course_name: 公钥加密与PKI实验, learned_count: 1862, image: https://dn-simplecloud.shiyanlou.com/1525930918198.png
+course_name: 单向哈希函数与MAC实验, learned_count: 1226, image: https://dn-simplecloud.shiyanlou.com/1525930886697.png
+course_name: 密钥加解密实验, learned_count: 4034, image: https://dn-simplecloud.shiyanlou.com/1525930737615.png
+course_name: 正则表达式基础, learned_count: 9307, image: https://dn-simplecloud.shiyanlou.com/ncn90.jpg
+course_name: Return-to-libc攻击实验, learned_count: 963, image: https://dn-simplecloud.shiyanlou.com/1525930624938.png
+course_name: 格式化字符串漏洞实验, learned_count: 1758, image: https://dn-simplecloud.shiyanlou.com/1525930213418.png
+course_name: 基于 JavaScript 实现玫瑰花, learned_count: 9954, image: https://dn-simplecloud.shiyanlou.com/ncn197.jpg
+course_name: HTML基础入门, learned_count: 27726, image: https://dn-simplecloud.shiyanlou.com/ncn19.jpg
+course_name: Linux Web运维（Nginx）实战, learned_count: 9126, image: https://dn-simplecloud.shiyanlou.com/ncn95.jpg
+course_name: Linux命令实例练习, learned_count: 19487, image: https://dn-simplecloud.shiyanlou.com/ncn68.jpg
+course_name: 软件工程(C编码实践篇), learned_count: 5145, image: https://dn-simplecloud.shiyanlou.com/ncn122.jpg
+course_name: HTML5基础入门, learned_count: 18060, image: https://dn-simplecloud.shiyanlou.com/ncn43.jpg
+course_name: 基于GO语言Revel框架和mgo的博客, learned_count: 1729, image: https://dn-simplecloud.shiyanlou.com/1445584176273.png
+course_name: Node.js包教不包会, learned_count: 5326, image: https://dn-simplecloud.shiyanlou.com/1453874684519.png
+course_name: C 语言制作简单计算器, learned_count: 12587, image: https://dn-simplecloud.shiyanlou.com/1529482492629.png
+course_name: Python文本解析器, learned_count: 5977, image: https://dn-simplecloud.shiyanlou.com/ncn70.jpg
+course_name: Bootstrap3.0入门学习, learned_count: 8136, image: https://dn-simplecloud.shiyanlou.com/ncn50.jpg
+course_name: CSS速成教程, learned_count: 11382, image: https://dn-simplecloud.shiyanlou.com/ncn53.jpg
+course_name: 用Python做2048游戏, learned_count: 7053, image: https://dn-simplecloud.shiyanlou.com/1442195604027.png
+course_name: Ruby基础教程, learned_count: 2803, image: https://dn-simplecloud.shiyanlou.com/ncn13.jpg
+course_name: Java开发简单的计算器, learned_count: 7483, image: https://dn-simplecloud.shiyanlou.com/ncn185.jpg
+course_name: 网页版拼图游戏, learned_count: 5641, image: https://dn-simplecloud.shiyanlou.com/1517277170996.png
+course_name: C 语言制作 2048, learned_count: 11403, image: https://dn-simplecloud.shiyanlou.com/ncn155.jpg
+course_name: Rails基础入门, learned_count: 1309, image: https://dn-simplecloud.shiyanlou.com/1447229126094.png
+course_name: 网页版别踩白块游戏, learned_count: 4465, image: https://dn-simplecloud.shiyanlou.com/ncn306.jpg
+course_name: 自己的Java编辑器, learned_count: 4869, image: https://dn-simplecloud.shiyanlou.com/ncn287.jpg
+course_name: 【实验1小时】PHP实现图片上传和预览, learned_count: 0, image: https://dn-simplecloud.shiyanlou.com/course/1527501620518_php(1).png
