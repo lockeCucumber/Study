@@ -9,6 +9,16 @@ class LouSpider(scrapy.Spider):
     # 定义进行爬取的url列表
     start_urls = ['https://www.shiyanlou.com/courses/?category=all&course_type=all&tag=all&fee=free']
 
+    # 另外一种初始链接写法,一般用start_urls更方便
+    # def start_requests(self):
+    #     urls = [ #爬取的链接由此方法通过下面链接爬取页面
+    #         'http://lab.scrapyd.cn/page/1/',
+    #         'http://lab.scrapyd.cn/page/2/',
+    #     ]
+    #     for url in urls:
+    #         yield scrapy.Request(url=url, callback=self.parse)
+
+
     # 解析并提取Item对象
     def parse(self, response):
         hxs = Selector(response)
@@ -21,5 +31,6 @@ class LouSpider(scrapy.Spider):
             yield item
 
         next_page = hxs.xpath('//div//li/a[@aria-label="Next"]/@href').extract_first()
+        self.log(next_page)
         if next_page != "#":
             yield scrapy.Request('https://www.shiyanlou.com'+next_page, self.parse)
