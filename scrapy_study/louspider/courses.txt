@@ -1,0 +1,20 @@
+course_name: Linux 基础入门（新版）, learned_count: 182264, image: https://dn-simplecloud.shiyanlou.com/ncn1.jpg
+course_name: 新手指南之玩转实验楼, learned_count: 273324, image: https://dn-simplecloud.shiyanlou.com/ncn63.jpg
+course_name: 使用机器学习方法预测世界杯冠军, learned_count: 13, image: https://dn-simplecloud.shiyanlou.com/course/1531278732689_机器学习预测世界杯-封面(1).png
+course_name: Python 实现 Redis 异步客户端, learned_count: 680, image: https://dn-simplecloud.shiyanlou.com/1458285524322.png
+course_name: NumPy 百题大冲关, learned_count: 3606, image: https://dn-simplecloud.shiyanlou.com/1523958494389.png
+course_name: 用 C 编写打字练习软件, learned_count: 828, image: https://dn-simplecloud.shiyanlou.com/course/1526624721268_【1105】-【用C编写打字练习软件】.png
+course_name: C 语言入门教程, learned_count: 38046, image: https://dn-simplecloud.shiyanlou.com/1523348726316.png
+course_name: Python3 简明教程, learned_count: 28989, image: https://dn-simplecloud.shiyanlou.com/1470809533277.png
+course_name: Java编程语言（新版）, learned_count: 36590, image: https://dn-simplecloud.shiyanlou.com/ncn18.jpg
+course_name: 全面解析PythonChallenge, learned_count: 8507, image: https://dn-simplecloud.shiyanlou.com/1517277301782.png
+course_name: Scala 开发教程, learned_count: 5293, image: https://dn-simplecloud.shiyanlou.com/1453875026696.png
+course_name: Pandas 百题大冲关, learned_count: 1560, image: https://dn-simplecloud.shiyanlou.com/1523958570202.png
+course_name: Python 基于共现提取《釜山行》人物关系, learned_count: 11279, image: https://dn-simplecloud.shiyanlou.com/1517278026775.png
+course_name: PHP 编程入门, learned_count: 13801, image: https://dn-simplecloud.shiyanlou.com/course/1524713748754_【23】-【PHP编程入门】.png
+course_name: 16 个 PHP 设计模式详解, learned_count: 4980, image: https://dn-simplecloud.shiyanlou.com/1517278443183.png
+course_name: MySQL 基础课程, learned_count: 43540, image: https://dn-simplecloud.shiyanlou.com/ncn9.jpg
+course_name: Python 图片转字符画, learned_count: 57414, image: https://dn-simplecloud.shiyanlou.com/ncn370.jpg
+course_name: Scala 开发二十四点游戏, learned_count: 1360, image: https://dn-simplecloud.shiyanlou.com/1453875007050.png
+course_name: RabbitMQ 消息队列, learned_count: 1117, image: https://dn-simplecloud.shiyanlou.com/1472205212815.png
+course_name: 竞态条件漏洞实验, learned_count: 903, image: https://dn-simplecloud.shiyanlou.com/1525930945137.png
