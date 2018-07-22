@@ -18,3 +18,9 @@ class CourseItem(scrapy.Item):
     name = scrapy.Field()
     image = scrapy.Field()
     learned = scrapy.Field()
+
+class MingyanItem(scrapy.Item):
+    # define the fields for your item here like:
+    text = scrapy.Field()
+    author = scrapy.Field()
+    tags = scrapy.Field()
