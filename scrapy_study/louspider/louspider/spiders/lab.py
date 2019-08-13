@@ -20,7 +20,7 @@ class LabSpider(scrapy.Spider):
             item['text'] = v.css('.text::text').extract_first()
             item['author'] = mingyan.css('small::text').extract_first()
             tags = v.css('.tags .tag::text').extract()
-            item['tags'] = ','.join(tags)
+            item['tags'] = tags
             yield item
 
         next_page = response.css('li.next a::attr(href)').extract_first()
